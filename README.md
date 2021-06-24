@@ -10,3 +10,6 @@ https://nbviewer.jupyter.org/github/au1206/Fine_Tuning_BERT/blob/main/Fine_Tune_
 Find this and many more tutorials and annotated papers on:
 <br>
 https://au1206.github.io/
+
+Run this directly on kaggle kernel with GPU:
+https://www.kaggle.com/au1206/fine-tuning-bert-text-classification
